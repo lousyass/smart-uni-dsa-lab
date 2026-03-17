@@ -1,0 +1,15 @@
+baut,bangladesh,cse phy,3.60,2500000
+aust,bangladesh,cse swe,3.80,4500000
+buet,bangladesh,phy civil,4.00,1000000
+dhaka university,bangladesh,chem bio,3.50,1250000
+medical college,bangladesh,mbbs fbbs,3.20,2500000
+oxford,uk,cse swe,4.00,95000000
+havard,usa,tech cse,3.50,1250000
+ruet,bangladesh,cse cis,3.70,1560000
+aiub,bangladesh,cis,3.20,4000000
+du,usa,cse swe,4.00,45800
+tazhib,bangladesh,cse,4.00,6500
+daffodil,bangladesh,cse eee,2.00,80000
+mit,usa,cse swe,3.50,970000
+daffodil,bangladesh,cis cse swe,4.00,1596035
+jkd,sf,dsf,5.00,252
