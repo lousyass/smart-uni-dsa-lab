@@ -46,6 +46,10 @@ typedef struct list_tree_node{
     struct list_tree_node * right_next;
 }list_tree_node;
 
+typedef struct history_stack{
+    char task[20];
+    char 
+}
 list_tree_node * root = NULL; // root of tree for the explore page
 list_tree_node * head = NULL; // head of linked list for admin page
 
